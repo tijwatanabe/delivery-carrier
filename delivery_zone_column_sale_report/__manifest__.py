@@ -1,8 +1,8 @@
 # Copyright 2018 Tecnativa - Sergio Teruel
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
-    "name": "Partner Delivery Zone Products Sold Report",
-    "summary": "Report products sold by delivery zone",
+    "name": "Delivery Zone Column In The Sales Report",
+    "summary": "Added the 'Delivery Zone' column in the 'Sales' report in 'sale.report'",
     "version": "14.0.1.0.0",
     "development_status": "Beta",
     "category": "Delivery",
