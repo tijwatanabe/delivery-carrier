@@ -3,7 +3,7 @@
 {
     "name": "Delivery Zone Column In The Sales Report",
     "summary": "Added the 'Delivery Zone' column in the 'Sales' report in 'sale.report'",
-    "version": "14.0.1.0.0",
+    "version": "14.0.1.0.1",
     "development_status": "Beta",
     "category": "Delivery",
     "website": "https://github.com/tijwatanabe/delivery-carrier.git",
