@@ -1,7 +1,7 @@
 from odoo import fields, models
 
 
-class SaleOrderLine(models.Model):
+class SaleReport(models.Model):
     _inherit = 'sale.report'
 
     delivery_zone_id = fields.Many2one(
